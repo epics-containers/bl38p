@@ -1,3 +1,3 @@
 # A pin to the current release for the epics-containers-cli package
 # using requirements.txt so that dependabot can track updates
-epics-containers-cli==2.6.4
+epics-containers-cli==2.6.9
